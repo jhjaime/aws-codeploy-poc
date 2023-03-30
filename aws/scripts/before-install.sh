@@ -7,4 +7,3 @@ if [ -d /usr/local/codedeployresources ]; then
 fi
 
 mkdir -vp /usr/local/codedeployresources
-

@@ -5,8 +5,8 @@ on:
 
 env:
   applicationfolder: spring-boot-hello-world-example
-  AWS_REGION: us-east-1a
-  S3BUCKET: codedeploystack-webappdeploymentbucket-17aekz2sewtx8
+  AWS_REGION: ##region##
+  S3BUCKET: ##s3-bucket## 
 
 
 jobs:
